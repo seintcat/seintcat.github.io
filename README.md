@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/seintcat/seintcat.github.io/main/style.css">
+title: Seintcat
+subtitle: Main
+url: "https://seintcat.github.io"
 # seintcat.github.io
 
 [Hello world!](https://seintcat.github.io/HelloWorld/)
